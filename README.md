@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Peter Jochem
-I am a software engineer interested in robotics
+I am a software engineer interested in full stack development, robotics, and machine learning
 
 - 🔭 I’m currently working on a Go playing robot
 - 🌱 I’m currently learning frontend development on Udacity
