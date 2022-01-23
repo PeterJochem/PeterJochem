@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Peter Jochem
 I am a software engineer interested in robotics
 
 - 🔭 I’m currently working on a Go playing robot
