@@ -6,8 +6,6 @@ I am a software engineer interested in robotics
 - 👯 I’m looking to collaborate on a motion planning project
 - ⚡ Fun fact: Elektro, the world’s first humanoid robot, debuted in 1939. Built by Westinghouse, the seven-foot-tall walking machine “spoke” more than 700 words stored on 78-rpm records.
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-
 ### Languages and Tools:
 <img align="left" alt="Python3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
