@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Peter Jochem
-I am a software engineer interested in robotics and machine learning
+I am a software engineer interested in robotics and machine learning.
 
 - 🔭 I’m currently working on a motion planning library from scratch.
 - ⚡ Fun fact: Elektro, the world’s first humanoid robot, debuted in 1939. Built by Westinghouse, the seven-foot-tall walking machine “spoke” more than 700 words stored on 78-rpm records.
